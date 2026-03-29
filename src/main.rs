@@ -1,5 +1,6 @@
 mod trivia;
+use crate::trivia::guessing_game;
 
 fn main() {
-    println!("Hello, world!");
+    guessing_game::play();
 }
