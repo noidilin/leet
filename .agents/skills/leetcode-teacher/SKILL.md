@@ -288,12 +288,7 @@ Target reference map:
 - `dynamic_programming.md` -> Stage 8
 - `advanced_topics.md` -> Stages 9 and 10 topics that do not need a dedicated file yet
 
-Deprecated compatibility indexes:
-
-- `patterns.md` -> legacy flat-taxonomy pointer only; do not treat it as the curriculum
-- `data_structures.md` -> legacy mixed reference pointer only; prefer the staged references instead
-
-During migration, prefer the stage map in this file over older flat taxonomy language.
+The problem set that shares similar frameworks are grouped in `/.agents/skills/leetcode-teacher/frameworks/`, and some of them even contains mature template for the corresponding problem set.
 
 ## Standard Topic Template
 
